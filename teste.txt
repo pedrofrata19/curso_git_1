@@ -1,3 +1,9 @@
 Testando repositorio 1
 a
+<<<<<<< HEAD
 
+=======
+b
+c
+d
+>>>>>>> teste_criacao_2
